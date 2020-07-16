@@ -6,10 +6,6 @@
     margin: 45px;
     margin-left: 100px;
 }
-#mamapoem{
-    width: 280px;
-    height: 175px;
-}
 .logo{
     width: 100px;
     height: 100%;
@@ -26,7 +22,7 @@
     margin: 15px;
 }
 .zag{
-    font-size: 38px;
+    font-size: 45px;
     color: rgb(250, 65, 65);
 }
 .stih{
@@ -48,12 +44,6 @@
     border-radius: 45%;
     font-family: Comic Sans Ms;
     cursor: pointer;
-}
-.provlich{
-    width: 100px;
-    height: 100px;
-    background-color: rgb(67, 255, 208);
-    color: rgba(0, 47, 255, 0.753);
 }
 /* .menubtnlock{
     margin-left:20%;
@@ -156,7 +146,7 @@ a{
     color: rgb(255, 0, 64);
 }
 #july{
-    width: 200px;
+    width: 500px;
 }
 @media screen and (min-width:1024px) and (max-width:1200px){
     .header{
@@ -194,4 +184,11 @@ a{
     .num{
         font-size: 15px;
     }
+}
+
+.provlich{
+    width: 220px;
+    height: 140px;
+    background-color: rgb(67, 255, 208);
+    color: rgba(0, 47, 255, 0.753);
 }
