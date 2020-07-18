@@ -31,7 +31,7 @@ function voti(){
     var loginText = login.value;
     var password = document.getElementById("passwordBox");
     var passText = password.value;
-    if(loginText == "The_best_mom" && passText == "durdona$1987"){
+    if(loginText == "Leyla-Almasovna" && passText == "LA_Premium"){
         window.location.href = "main.html";
     }
     else{
