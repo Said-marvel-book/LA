@@ -178,7 +178,7 @@ a{
         font-size: 42px;
     }
     .tf{
-        font-size: 35px;
+        font-size: 50px;
     }
     .footer{
         height: 20px;
@@ -194,4 +194,8 @@ a{
     height: 140px;
     background-color: rgb(67, 255, 208);
     color: rgba(0, 47, 255, 0.753);
+}
+#vid{
+    height: 740px;
+    width: 940px;
 }
