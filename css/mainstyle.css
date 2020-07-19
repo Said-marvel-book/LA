@@ -151,7 +151,7 @@ a{
 #july{
     width: 500px;
 }
-@media screen and (min-width:1024px) and (max-width:1200px){
+@media screen and (min-width:1024px) and (max-width:1300px){
     .header{
         width: 1080px;
         height: 500px;
