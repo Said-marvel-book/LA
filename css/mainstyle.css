@@ -157,6 +157,9 @@ a{
         height: 500px;
         margin-bottom: 10px;
     }
+    html{
+        background-color: red;
+    }
     .logo{
         width: 350px;
         height: 90%;
